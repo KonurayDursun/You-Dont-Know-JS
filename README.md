@@ -22,7 +22,7 @@ I recommend reading the **second edition** books in this order:
 
 If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
-## Publishing
+## Publishing Details
 
 As always, you'll be able to read these books online here entirely for free.
 
